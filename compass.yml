@@ -1,0 +1,17 @@
+name: dependabot
+id: ari:cloud:compass:8138b2dd-2dc8-4a49-ad8d-3c41bc6134a4:component/a896b705-b8c6-4731-801e-01ea8b3b5827/6742d63b-c3f4-45cf-a462-08680f3814d0
+description: 🤖 Fork me to try out Dependabot
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Purely-Dating/dependabot
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
